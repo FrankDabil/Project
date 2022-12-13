@@ -1,0 +1,435 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@700&family=Roboto:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&family=Roboto:ital,wght@1,900&display=swap');
+
+body {
+    background-color: #F2F2F2;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Epilogue', sans-serif;
+
+}
+
+h2 {
+    margin: 0px;
+}
+
+.heading {
+    width: 1108.85px;
+    height: 56px;
+    margin: 50px 165px 0px 165px;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image1 {
+    width: 78.41px;
+    height: 24.8px;
+}
+
+.request {
+    width: 219px;
+    height: 56px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.16px;
+    border: 1px solid #172339;
+    border-radius: 6px;
+    box-sizing: border-box;
+    padding: 12px 20px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    cursor: pointer;
+}
+
+.request:hover {
+    background-color: #172339;
+    color: #FAF8F6;
+    ;
+}
+
+.supper {
+    position: absolute;
+    margin: 67px 165px 0px 165px;
+    position: absolute;
+    width: 1110px;
+    height: 600px;
+    background: url(./assets/image-hero-portrait.\ real.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: 473px;
+}
+
+.line {
+    position: absolute;
+    margin: 50px 534px 519px 289px;
+    width: 287px;
+    height: 32px;
+
+
+}
+
+.textxl {
+    position: absolute;
+    width: 635px;
+    height: 156px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 78px;
+    letter-spacing: -1px;
+    color: #172339;
+}
+
+.textsm {
+    position: absolute;
+    width: 350px;
+    height: 96px;
+    margin-top: 272px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    color: #49566D;
+}
+
+.Access {
+    position: absolute;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: -0.18px;
+    color: #FAF8F6;
+    background-color: #172339;
+    border-radius: 6px;
+    margin-top: 420px;
+    padding: 15px 31px;
+    cursor: pointer;
+}
+
+.Access:hover {
+    background: linear-gradient(135deg, #A060FF 0%, #CB30E3 49.21%, #FFA84E 100%);
+}
+
+.phone {
+    position: absolute;
+    width: 350px;
+    height: 600px;
+    right: 450px;
+    left: 474px;
+    border-radius: 15px;
+    
+}
+
+.numbers {
+    position: absolute;
+    width: 190px;
+    height: 375px;
+    margin: 30px 165px 0px 890px;
+}
+
+.top {
+    position: absolute;
+    width: 190px;
+    height: 56px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.5px;
+    color: #172339;
+    margin-top: 30px;
+
+}
+
+.comp {
+    position: absolute;
+    width: 190px;
+    height: 26px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 2.5px;
+    color: #49566D;
+    margin-top: 1px;
+    margin-bottom: 90px;
+}
+
+.first {
+    margin-top: 210px;
+    position: absolute;
+    width: 190px;
+    height: 83px;
+}
+
+.eight {
+    position: absolute;
+    width: 190px;
+    height: 56px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.5px;
+    color: #172339;
+}
+
+.lang {
+    position: absolute;
+    width: 190px;
+    height: 26px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 2.5px;
+    color: #49566D;
+    margin-top: 1px;
+}
+
+.second {
+    margin-top: 400px;
+    position: absolute;
+    width: 190px;
+    height: 83px;
+}
+
+.money {
+    position: absolute;
+    width: 190px;
+    height: 56px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.5px;
+    color: #172339;
+}
+
+.lead {
+    position: absolute;
+    width: 190px;
+    height: 26px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 2.5px;
+    color: #49566D;
+    margin-top: 1px;
+}
+
+.man {
+    position: absolute;
+    width: 1109px;
+    height: 545px;
+    left: 167px;
+    top: 972px;
+    background: #172339;
+    border-radius: 15px;
+
+}
+
+.blur {
+    position: absolute;
+    width: 294px;
+    height: 294px;
+    background: #DB65E2;
+    mix-blend-mode: normal;
+    opacity: 0.48;
+    filter: blur(67.957px);
+    margin: 210px 673px 41px 142px;
+}
+
+.jeremy {
+    position: absolute;
+    width: 359.81px;
+    height: 589.56px;
+    margin-left: 122px;
+    margin-right: 623px;
+    margin-bottom: 0px;
+    margin-top: -45px;
+}
+
+.curve {
+    position: absolute;
+    width: 64.05px;
+    height: 52px;
+    margin: 162px 528px 332px 518px;
+}
+
+.words {
+    position: absolute;
+    width: 350px;
+    height: 369px;
+    margin: 88px 125px 88px 634px;
+}
+
+.just {
+    position: absolute;
+    height: 56px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.5px;
+    color: #FAF8F6;
+    margin-bottom: 40px;
+
+}
+
+.I {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 26%;
+    bottom: 27%;
+    letter-spacing: 0.1px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+    color: #F3EDE7;
+}
+
+.robin {
+    position: absolute;
+    width: 165px;
+    height: 32px;
+    right: 52.86%;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: -0.18px;
+    color: #FAF8F6;
+    margin-top: 343px;
+}
+
+.fylo {
+    position: absolute;
+    width: 190px;
+    height: 26px;
+    margin-top: 380px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 2.5px;
+    color: #F3EDE7;
+
+}
+
+.button {
+    position: absolute;
+    width: 1440px;
+    height: 464px;
+    left: 0px;
+    top: 1252px;
+    background: rgba(243, 237, 231, 1)
+    background-repeat: no-repeat;
+    
+}
+
+.last {
+    position: absolute;
+    width: 1109px;
+    height: 32px;
+    margin: 360px 167px 72px;
+}
+
+.logo {
+    position: absolute;
+    width: 81;
+    height: 32px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+    letter-spacing: -0.444444px;
+    color: #172339;
+}
+
+.copy {
+    position: absolute;
+    width: 125px;
+    height: 32px;
+    margin-left: 419px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.0833333px;
+    color: #49566D;
+}
+
+.media {
+    position: absolute;
+    width: 116px;
+    height: 20px;
+    left: 993px;
+    top: 6px;
+    cursor: pointer;
+}
+
+.insta {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left: 84px;
+}
+
+.insta:hover {
+    background: #F3EDE7;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.twi {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    margin-left: 42px;
+}
+
+.twi:hover {
+    background: #F3EDE7;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.face {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+
+}
+
+.face:hover {
+    background: #F3EDE7;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
